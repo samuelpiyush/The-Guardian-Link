@@ -41,8 +41,7 @@ This approach improves rider safety, prevents helmet misuse, and adds a fall/cra
 
 <p align="center">
   <img src="./helmet-module1.jpg" width="400"><br/>
-  <img src="./helmet-module2.jpg" width="400"><br/>
-  <img src="./helmet-module3.jpg" width="400"><br/>
+  <img src="./helmet_module2.jpg" width="400"><br/>
   <i>Helmet unit using MYOSA Motherboard</i>  
 </p>
 
